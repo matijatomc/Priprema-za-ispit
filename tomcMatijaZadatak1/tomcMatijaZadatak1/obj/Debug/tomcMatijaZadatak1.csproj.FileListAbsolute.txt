@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\bin\Debug\tomcMatijaZadatak1.exe.config
+C:\Users\3.D\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\bin\Debug\tomcMatijaZadatak1.exe
+C:\Users\3.D\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\bin\Debug\tomcMatijaZadatak1.pdb
+C:\Users\3.D\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\obj\Debug\tomcMatijaZadatak1.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\obj\Debug\tomcMatijaZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\obj\Debug\tomcMatijaZadatak1.exe
+C:\Users\3.D\source\repos\tomcMatijaZadatak1\tomcMatijaZadatak1\obj\Debug\tomcMatijaZadatak1.pdb
