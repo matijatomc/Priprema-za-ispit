@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\bin\Debug\tomcMatijaZadatak4.exe.config
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\bin\Debug\tomcMatijaZadatak4.exe
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\bin\Debug\tomcMatijaZadatak4.pdb
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\obj\Debug\tomcMatijaZadatak4.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\obj\Debug\tomcMatijaZadatak4.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\obj\Debug\tomcMatijaZadatak4.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\obj\Debug\tomcMatijaZadatak4.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\obj\Debug\tomcMatijaZadatak4.exe
+C:\Users\Matija\source\repos\tomcMatijaZadatak4\tomcMatijaZadatak4\obj\Debug\tomcMatijaZadatak4.pdb
